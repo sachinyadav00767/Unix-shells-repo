@@ -1,4 +1,4 @@
-# Unix_and_shell
+# Unix-script-repo
 This repo has many shell script scenarios 
 
 ## Assignments 
